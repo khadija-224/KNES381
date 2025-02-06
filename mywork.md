@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1><b>heading</b></h1>
+<p style="text-align:center;">centered</p>
 
 
 </body>

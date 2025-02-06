@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<p style="text-align:center;">centered</p>
+<center>centered</center>
 
 
 </body>

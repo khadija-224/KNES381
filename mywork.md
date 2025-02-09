@@ -2,18 +2,23 @@
 <html>
 <body>
 
-<h1 align="center">Title</h1>
+<h1 align="center">The challenge!</h1>
 
-<img align="right" src="https://www.atlasandboots.com/wp-content/uploads/2019/05/ama-dablam2-most-beautiful-mountains-in-the-world.jpg" alt="mountains" width="300" height="200">
+<img align="right" src="https://a.travel-assets.com/findyours-php/viewfinder/images/res70/542000/542607-singapore.jpg" alt="Singapore" width="300" height="200">
 
-<p> I love going on roadtrips and looking at mountains. One day I want to hike up a mountain. More text, I don't know what but I'll think about it soon. </p>
-
-<p style="color:green;">Can I code it in this way?</p> 
+<p> This is a picture of Singapore, a country in southeast Asia. One day I want to travel here so I can explore the infrastructure and the lush green spaces. And obviously eat all the yummy food.</p> 
 
 <p>VO<sub>2</sub></p>
 
-#how to make this open in a new tab...
+<p> style="color:red" </p> 
+
+<p>V̇O₂</p>
+
 [This is the link to my read-me file](https://github.com/khadija-224/KNES381/blob/main/readme1.md)
+
+<p>Below you will find a hyperlink which will show an image in a subfolder. Click to found out what it is</p>   
+
+[Click here](https://github.com/khadija-224/KNES381/blob/main/Main%20Folder/Subfolder/image.md)
 
 
 </body>

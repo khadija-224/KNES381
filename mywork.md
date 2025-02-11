@@ -16,6 +16,7 @@
 
 [Click here](https://github.com/khadija-224/KNES381/blob/main/Main%20Folder/Subfolder/image.md)
 
+<p>I like $${\color{green}green}$$</p>
 
 </body>
 </html>
